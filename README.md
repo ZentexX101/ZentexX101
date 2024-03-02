@@ -1,5 +1,10 @@
-### Hi there 👋 zentexx101
 [![https://zentexx.com/](./images/banner1.png)](https://zentexx.com)
+
+
+### We are a multi-faceted service provider with reliability. Our services include: Digital Marketing, Branding Solutions, Web Development, Video Editing, Software Development, and E-Commerce.
+# 🖥 We have skilled team for every service.
+
+## Our goal is customer satisfaction through best service.
 <!--
 **ZentexX101/ZentexX101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
