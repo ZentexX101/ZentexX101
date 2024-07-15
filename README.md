@@ -1,4 +1,4 @@
-[![https://zentexx.com/](./images/banner1.png)](https://zentexx.com)
+[![https://zentexx.com/](./images/github_banner.png)](https://zentexx.com)
 
 <h1 align="center"> Welcome to our Zen<span style="color:blue">Texx</span></h1>
 
